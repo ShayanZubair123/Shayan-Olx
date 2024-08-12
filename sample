@@ -1,0 +1,15 @@
+<div class="card1">
+
+    <img style="width: 270px;" src="./Car1.webp" alt="">
+    <div class="imgcard1">
+        <div class="TEXT">
+            <p style="font-size: 20px;display: inline; text-align: center;"> <b> Rs 260,000</b></p><img
+                src="./Heart.jpg" height="25px" style="margin-left: 120px; text-align: center; padding-top: 5px;"
+                alt="">
+
+            <p style="font-size: 18px; margin-top: 10px;">One Plus 8t 12</p>
+            <p style="margin-top: 10px; font-size: 15px; color: rgb(77, 77, 77);">DHA Phase 6,Karachi</p>
+            <p style="color: rgb(77, 77, 77);">4 weeks Ago</p>
+        </div>
+    </div>
+</div>
